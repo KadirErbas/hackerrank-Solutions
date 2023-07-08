@@ -7,8 +7,13 @@ Let's say you have an integer array and a string array. You have to write a sing
 You are given code in the editor. Complete the code so that it prints the following lines:
 
 1
+
 2
+
 3
+
 Hello
+
 World
+
 Do not use method overloading because your answer will not be accepted.
